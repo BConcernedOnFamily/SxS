@@ -3,3 +3,4 @@ It is the sxs directory that solved the problem that Windows server 2012 cannot 
 So I upload the directory named sxs, which comes from Microsoft's official website(https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-server-2012).
 And I download the .iso, but My OS is Datacenter, and it's ok to solve my proble. 
 Pleace see the web page（https://www.jianshu.com/p/d27c61f7d439） if you want to see Specific installation process.
+I'm sorry that I cannot upload the directory because the sxs is too big, I have a chance and I will upload my baiduyun.
